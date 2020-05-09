@@ -1,5 +1,3 @@
-/*
- */
 package labtp8;
 
 /**
@@ -8,11 +6,11 @@ package labtp8;
  */
 public class Labtp8 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Matriz mat = new Matriz();
+        
+        mat.armar();
     }
     
 }
